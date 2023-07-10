@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    height: 550px;
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 11px;
+}
+
+h4{
+    font-weight: bold;
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+p{
+    color: grey;
+}
+
+.card{
+    border: none;
+}
+
+.cardImg{
+    width: 310px;
+    height: 310px;
+    margin-top: 20px;
+    margin-left: 9px;
+    border-radius: 15px;
+    text-align: center;
+}
